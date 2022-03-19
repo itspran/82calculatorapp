@@ -1,0 +1,43 @@
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+#sum-el {
+  font-size: 50px;
+}
+
+#num1-el {
+  font-size: 75px;
+  margin-right: 10px;
+  text-decoration: underline;
+}
+#num2-el {
+  font-size: 75px;
+  margin-left: 10px;
+  text-decoration: underline;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+button {
+  background-color: white;
+  border-width: 1px;
+  border-radius: 30px;
+  /* width: 100px; */
+  border-color: black;
+  font-size: 30px;
+  padding: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  margin: 5px;
+}
+
+p {
+  color: red;
+}
